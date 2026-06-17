@@ -1,0 +1,17 @@
+{
+  "fonte": "Regulamento fictício do Programa Alfa. Cada artigo é um nó; o texto contém remissões ('nos termos do art. Nº') que viram arestas no grafo.",
+  "nodes": [
+    {"id": "art1", "num": 1, "rotulo": "Art. 1º",
+     "texto": "Este regulamento dispoe sobre o Programa Alfa de apoio a laboratorios de informatica."},
+    {"id": "art3", "num": 3, "rotulo": "Art. 3º",
+     "texto": "Considera-se beneficiario do Programa Alfa a escola que atende aos requisitos do art. 7."},
+    {"id": "art5", "num": 5, "rotulo": "Art. 5º",
+     "texto": "O repasse e pago em duas parcelas, observado o cronograma do art. 9."},
+    {"id": "art7", "num": 7, "rotulo": "Art. 7º",
+     "texto": "Sao requisitos para o beneficio: ter no minimo cinquenta alunos e adesao formal do gestor municipal."},
+    {"id": "art9", "num": 9, "rotulo": "Art. 9º",
+     "texto": "O cronograma preve a primeira parcela em marco e a segunda em agosto."},
+    {"id": "art12", "num": 12, "rotulo": "Art. 12",
+     "texto": "A prestacao de contas e feita exclusivamente pelo sistema oficial ate trinta dias apos o repasse."}
+  ]
+}
